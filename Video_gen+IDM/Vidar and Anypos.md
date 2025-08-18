@@ -12,3 +12,4 @@ generate reasoning 监督用vlm生成和标注一样的内容，并且action exp
 
 推理时：
 use reasoning as instructions 是pi0的forward
+testing
