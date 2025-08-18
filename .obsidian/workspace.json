@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "d00d35024d5c2e71",
+    "type": "split",
+    "children": [
+      {
+        "id": "49b06fc12788dcee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3aa3340667f6b36a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deeplearning/Embodied Agent/PI0.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PI0"
+            }
+          },
+          {
+            "id": "09ef55b56dcf6e86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Video_gen+IDM/Vidar and Anypos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vidar and Anypos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "febbee6b756ae953",
+    "type": "split",
+    "children": [
+      {
+        "id": "dad0454ac5041d28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d255f73444d3e53",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dd580972706242fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#generate",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7efb0c2b1fcc5e10",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "123df4fd5d8f8f55",
+    "type": "split",
+    "children": [
+      {
+        "id": "22b2a73617d8b9c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e141a86d04d7e338",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "dd35ee5397757ee6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "486dc2cd55aadd5c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1388f44d9c2a36f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "github-sync:Sync with Remote": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2d255f73444d3e53",
+  "lastOpenFiles": [
+    "Video_gen+IDM/Vidar and Anypos.md",
+    "Deeplearning/Embodied Agent/ACT_arch.png",
+    "Docker 运行DexVLA.md",
+    "Video_gen+IDM",
+    "Deeplearning/Embodied Agent/Aloha Unleashed.md",
+    "Dexvla",
+    "Deeplearning/Embodied Agent/Acting Chunking with transformer(ACT).md",
+    "Deeplearning/Embodied Agent/Action_chunking.png",
+    "Deeplearning/Embodied Agent/Aloha_unleashed.png",
+    "Deeplearning/Embodied Agent/Diffusion_policy_development.png",
+    "Deeplearning/Embodied Agent/Lerobot.md",
+    "Deeplearning/Embodied Agent/Diffusion Policy.md",
+    "Deeplearning/Embodied Agent/OpenVLA.md",
+    "Deeplearning/Embodied Agent/PI0.md",
+    "Deeplearning/Embodied Agent/Learned positional embeding.md",
+    "Deeplearning/Embodied Agent/Aloha unleashed 1.md",
+    "Pasted image 20250609104212.png",
+    "Act_code_structure.png",
+    "Pasted image 20250606172405.png",
+    "Welcome.md",
+    "Untitled.canvas",
+    "Deeplearning/Embodied Agent/Survey on Diffusion Policy for RoboticManipulation.md",
+    "LLM/Tokenizer.md",
+    "LLM",
+    "Deeplearning/Embodied Agent.zip",
+    "Deeplearning/Generative AI/Diffusion models.md",
+    "Deeplearning/Occupancy Prediction/Rendor_FSN.md",
+    "Deeplearning/Embodied Agent/Sinosioudal Positional Embedding.md",
+    "Deeplearning/欢迎.md",
+    "Deeplearning/未命名.canvas",
+    "Deeplearning/创建链接.md",
+    "Deeplearning/Occupancy Prediction",
+    "Deeplearning/Generative AI",
+    "Deeplearning/Embodied Agent",
+    "Deeplearning",
+    "Reinforcement Learning"
+  ]
+}
