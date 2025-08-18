@@ -1,5 +1,5 @@
 {
-  "remoteURL": "git@github.com:Theon767/Obsidian-sync.git",
+  "remoteURL": "https://github.com/Theon767/Obsidian-sync.git",
   "gitLocation": "",
   "syncinterval": 60,
   "isSyncOnLoad": true,
