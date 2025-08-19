@@ -4,51 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8ae2e2fe8d852861",
+        "id": "cfcca05b6e2f04f6",
         "type": "tabs",
         "children": [
           {
-            "id": "fad24682a53ff72e",
+            "id": "17913c9c8d1be440",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deeplearning/Embodied Agent/Acting Chunking with transformer(ACT).md",
+                "file": "Video_gen+IDM/Vidar and Anypos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Acting Chunking with transformer(ACT)"
-            }
-          },
-          {
-            "id": "01ab4f198dfcc81a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "2af6665c65106d6a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
+              "title": "Vidar and Anypos"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks"
             }
           },
           {
@@ -140,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links"
             }
           },
           {
@@ -169,13 +140,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline"
             }
           }
         ]
@@ -187,7 +157,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -197,18 +166,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2af6665c65106d6a",
+  "active": "17913c9c8d1be440",
   "lastOpenFiles": [
-    "Deeplearning/Embodied Agent/Acting Chunking with transformer(ACT).md",
     "Untitled.md",
-    "Untitled",
-    "Welcome.md",
-    "Act_code_structure.png",
-    "Pasted image 20250606172405.png",
     "Pasted image 20250609104212.png",
-    "Deeplearning/Embodied Agent/ACT_arch.png",
-    "Video_gen+IDM/Vidar and Anypos.md",
+    "Pasted image 20250606172405.png",
     "Docker 运行DexVLA.md",
+    "Act_code_structure.png",
+    "Video_gen+IDM/Vidar and Anypos.md",
     "Video_gen+IDM",
     "LLM/Tokenizer.md",
     "LLM",
@@ -230,8 +195,11 @@
     "Deeplearning/Embodied Agent/Aloha_unleashed.png",
     "Deeplearning/Embodied Agent/Aloha Unleashed.md",
     "Deeplearning/Embodied Agent/Action_chunking.png",
+    "Deeplearning/Embodied Agent/Acting Chunking with transformer(ACT).md",
+    "Deeplearning/Embodied Agent/ACT_arch.png",
     "Deeplearning/Embodied Agent.zip",
     "Deeplearning/Embodied Agent",
-    "Deeplearning"
+    "Deeplearning",
+    "Welcome.md"
   ]
 }
