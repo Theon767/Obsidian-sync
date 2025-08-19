@@ -1,53 +1,24 @@
 {
   "main": {
-    "id": "c010fb4e7f57eb0c",
+    "id": "80f7c10565738fc4",
     "type": "split",
     "children": [
       {
-        "id": "6ff72578623eebfd",
+        "id": "cfcca05b6e2f04f6",
         "type": "tabs",
         "children": [
           {
-            "id": "85ae9a3548f1bb23",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Deeplearning/Embodied Agent/Pasted image 20250819142929.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250819142929"
-            }
-          },
-          {
-            "id": "688c9c8c07a23ef1",
+            "id": "17913c9c8d1be440",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deeplearning/Generative AI/Flow_matching/FM.md",
+                "file": "Video_gen+IDM/Vidar and Anypos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FM"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "12a04f57235ed941",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3b02bac3c944ad02",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Vidar and Anypos"
             }
           }
         ]
@@ -56,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f8e46a09fa365315",
+    "id": "4fbba53808a5266e",
     "type": "split",
     "children": [
       {
-        "id": "8c244839244f0a3a",
+        "id": "2c7dd473dc5d8be4",
         "type": "tabs",
         "children": [
           {
-            "id": "3d05a677d9684973",
+            "id": "744268497320d76f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,7 +48,7 @@
             }
           },
           {
-            "id": "26c8f66e429387a7",
+            "id": "06786ab2cda88693",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,7 +65,7 @@
             }
           },
           {
-            "id": "789a2d0a2315a8ad",
+            "id": "cab83e3f5260f7ef",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -110,20 +81,19 @@
     "width": 300
   },
   "right": {
-    "id": "2091862e1547e012",
+    "id": "3f89f537f2aa25f8",
     "type": "split",
     "children": [
       {
-        "id": "ab9401dab22e1a92",
+        "id": "96aeda9a817c545f",
         "type": "tabs",
         "children": [
           {
-            "id": "b7da45a3da098613",
+            "id": "f64f5a670c89efbe",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deeplearning/Generative AI/Flow_matching/FM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for FM"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "19f8bbbb0c8baa81",
+            "id": "d05f1556a082b9a4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deeplearning/Generative AI/Flow_matching/FM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from FM"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "82f1477837775419",
+            "id": "3fa760fb7b0a5f7f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -166,18 +135,17 @@
             }
           },
           {
-            "id": "0d59fc347d0d9d8d",
+            "id": "6ba61f9284d3df43",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deeplearning/Generative AI/Flow_matching/FM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of FM"
+              "title": "Outline"
             }
           }
         ]
@@ -195,27 +163,30 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "688c9c8c07a23ef1",
+  "active": "17913c9c8d1be440",
   "lastOpenFiles": [
-    "Deeplearning/欢迎.md",
     "Deeplearning/Generative AI/Flow_matching/FM.md",
-    "Deeplearning/未命名.canvas",
-    "Deeplearning/Embodied Agent/Pasted image 20250819142929.png",
     "Deeplearning/Generative AI/Flow_matching",
-    "Deeplearning/创建链接.md",
+    "Deeplearning/Embodied Agent/Pasted image 20250819142929.png",
     "Untitled.md",
-    "Welcome.md",
+    "Pasted image 20250609104212.png",
+    "Pasted image 20250606172405.png",
+    "Docker 运行DexVLA.md",
+    "Act_code_structure.png",
     "Video_gen+IDM/Vidar and Anypos.md",
     "Video_gen+IDM",
     "LLM/Tokenizer.md",
     "LLM",
+    "Deeplearning/欢迎.md",
+    "Deeplearning/未命名.canvas",
+    "Deeplearning/创建链接.md",
     "Deeplearning/Occupancy Prediction/Rendor_FSN.md",
     "Deeplearning/Occupancy Prediction",
     "Deeplearning/Generative AI/Diffusion models.md",
+    "Deeplearning/Generative AI",
     "Deeplearning/Embodied Agent/Survey on Diffusion Policy for RoboticManipulation.md",
     "Deeplearning/Embodied Agent/Sinosioudal Positional Embedding.md",
     "Deeplearning/Embodied Agent/PI0.md",
@@ -226,13 +197,12 @@
     "Deeplearning/Embodied Agent/Diffusion Policy.md",
     "Deeplearning/Embodied Agent/Aloha_unleashed.png",
     "Deeplearning/Embodied Agent/Aloha Unleashed.md",
-    "Deeplearning/Embodied Agent/ACT_arch.png",
     "Deeplearning/Embodied Agent/Action_chunking.png",
     "Deeplearning/Embodied Agent/Acting Chunking with transformer(ACT).md",
-    "Deeplearning/Generative AI",
+    "Deeplearning/Embodied Agent/ACT_arch.png",
     "Deeplearning/Embodied Agent.zip",
     "Deeplearning/Embodied Agent",
     "Deeplearning",
-    "Untitled.base"
+    "Welcome.md"
   ]
 }
