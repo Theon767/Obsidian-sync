@@ -13,3 +13,7 @@ First expectation: over all possibilities of observation and action(Implemented 
 Second expectation: over all possible interpolation combinations of noise and action(Implemented through: random sample $\tau$)
 Diffusion Policy
 use noise to add to actions, then use models to predict the noise added
+
+Keys of input of PI05 inferences
+
+![[Pasted image 20250819142929.png]]
