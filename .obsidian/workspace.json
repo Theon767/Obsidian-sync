@@ -1,24 +1,38 @@
 {
   "main": {
-    "id": "80f7c10565738fc4",
+    "id": "c010fb4e7f57eb0c",
     "type": "split",
     "children": [
       {
-        "id": "cfcca05b6e2f04f6",
+        "id": "6ff72578623eebfd",
         "type": "tabs",
         "children": [
           {
-            "id": "17913c9c8d1be440",
+            "id": "85ae9a3548f1bb23",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Video_gen+IDM/Vidar and Anypos.md",
-                "mode": "source",
-                "source": false
+                "file": "Deeplearning/Embodied Agent/Pasted image 20250819142929.png"
               },
-              "icon": "lucide-file",
-              "title": "Vidar and Anypos"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250819142929"
+            }
+          }
+        ]
+      },
+      {
+        "id": "12a04f57235ed941",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b02bac3c944ad02",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -27,15 +41,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4fbba53808a5266e",
+    "id": "f8e46a09fa365315",
     "type": "split",
     "children": [
       {
-        "id": "2c7dd473dc5d8be4",
+        "id": "8c244839244f0a3a",
         "type": "tabs",
         "children": [
           {
-            "id": "744268497320d76f",
+            "id": "3d05a677d9684973",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +62,7 @@
             }
           },
           {
-            "id": "06786ab2cda88693",
+            "id": "26c8f66e429387a7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +79,7 @@
             }
           },
           {
-            "id": "cab83e3f5260f7ef",
+            "id": "789a2d0a2315a8ad",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,19 +95,20 @@
     "width": 300
   },
   "right": {
-    "id": "3f89f537f2aa25f8",
+    "id": "2091862e1547e012",
     "type": "split",
     "children": [
       {
-        "id": "96aeda9a817c545f",
+        "id": "ab9401dab22e1a92",
         "type": "tabs",
         "children": [
           {
-            "id": "f64f5a670c89efbe",
+            "id": "b7da45a3da098613",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Deeplearning/Embodied Agent/Pasted image 20250819142929.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,24 +118,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Pasted image 20250819142929"
             }
           },
           {
-            "id": "d05f1556a082b9a4",
+            "id": "19f8bbbb0c8baa81",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Deeplearning/Embodied Agent/Pasted image 20250819142929.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Pasted image 20250819142929"
             }
           },
           {
-            "id": "3fa760fb7b0a5f7f",
+            "id": "82f1477837775419",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,17 +151,18 @@
             }
           },
           {
-            "id": "6ba61f9284d3df43",
+            "id": "0d59fc347d0d9d8d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Deeplearning/Embodied Agent/Pasted image 20250819142929.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Pasted image 20250819142929"
             }
           }
         ]
@@ -163,31 +180,28 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "17913c9c8d1be440",
+  "active": "85ae9a3548f1bb23",
   "lastOpenFiles": [
-    "Deeplearning/Embodied Agent/Pasted image 20250819142929.png",
+    "Deeplearning/创建链接.md",
+    "Deeplearning/欢迎.md",
+    "Deeplearning/未命名.canvas",
     "Untitled.md",
-    "Pasted image 20250609104212.png",
-    "Pasted image 20250606172405.png",
-    "Docker 运行DexVLA.md",
-    "Act_code_structure.png",
+    "Welcome.md",
     "Video_gen+IDM/Vidar and Anypos.md",
     "Video_gen+IDM",
     "LLM/Tokenizer.md",
     "LLM",
-    "Deeplearning/欢迎.md",
-    "Deeplearning/未命名.canvas",
-    "Deeplearning/创建链接.md",
     "Deeplearning/Occupancy Prediction/Rendor_FSN.md",
     "Deeplearning/Occupancy Prediction",
     "Deeplearning/Generative AI/Diffusion models.md",
-    "Deeplearning/Generative AI",
     "Deeplearning/Embodied Agent/Survey on Diffusion Policy for RoboticManipulation.md",
     "Deeplearning/Embodied Agent/Sinosioudal Positional Embedding.md",
     "Deeplearning/Embodied Agent/PI0.md",
+    "Deeplearning/Embodied Agent/Pasted image 20250819142929.png",
     "Deeplearning/Embodied Agent/OpenVLA.md",
     "Deeplearning/Embodied Agent/Lerobot.md",
     "Deeplearning/Embodied Agent/Learned positional embeding.md",
@@ -195,12 +209,13 @@
     "Deeplearning/Embodied Agent/Diffusion Policy.md",
     "Deeplearning/Embodied Agent/Aloha_unleashed.png",
     "Deeplearning/Embodied Agent/Aloha Unleashed.md",
+    "Deeplearning/Embodied Agent/ACT_arch.png",
     "Deeplearning/Embodied Agent/Action_chunking.png",
     "Deeplearning/Embodied Agent/Acting Chunking with transformer(ACT).md",
-    "Deeplearning/Embodied Agent/ACT_arch.png",
+    "Deeplearning/Generative AI",
     "Deeplearning/Embodied Agent.zip",
     "Deeplearning/Embodied Agent",
     "Deeplearning",
-    "Welcome.md"
+    "Untitled.base"
   ]
 }
