@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deeplearning/Embodied Agent/PI0.md",
+                "file": "Deeplearning/Generative AI/Flow_matching/FM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PI0"
+              "title": "FM"
             }
           }
         ],
@@ -201,6 +201,7 @@
   },
   "active": "2af6665c65106d6a",
   "lastOpenFiles": [
+    "Deeplearning/Embodied Agent/PI0.md",
     "Deeplearning/Generative AI/Flow_matching/FM.md",
     "Deeplearning/Generative AI/Flow_matching",
     "Deeplearning/Embodied Agent/Pasted image 20250819142929.png",
@@ -226,7 +227,6 @@
     "Deeplearning/Generative AI",
     "Deeplearning/Embodied Agent/Survey on Diffusion Policy for RoboticManipulation.md",
     "Deeplearning/Embodied Agent/Sinosioudal Positional Embedding.md",
-    "Deeplearning/Embodied Agent/PI0.md",
     "Deeplearning/Embodied Agent/OpenVLA.md",
     "Deeplearning/Embodied Agent/Lerobot.md",
     "Deeplearning/Embodied Agent/Learned positional embeding.md",
