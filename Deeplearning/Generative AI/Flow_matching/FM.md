@@ -34,3 +34,7 @@ A: If we assume the Conditional probability path to be Gaussian probability path
 
 
 L_fm=L_cfm+ C
+
+### GT
+Assuming all samples from dataset are Gaussian probability paths.  Then the vector field can be expressed as combination of coefficinets of mean and std of this Gaussian probability path( a+b=1)
+u_theta(x)
