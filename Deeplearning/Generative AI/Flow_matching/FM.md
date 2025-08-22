@@ -3,7 +3,6 @@ P_init --> Pfinal (using ODE)
 using NN to simulate vector field 
 Goal: Build a flow using the simulated vector field(Distribution of P_data)
 X0 ~ P_init ~N(0,1)
-
 Flow is a collection of the ODE with different initial conditions
 
 Training Target: Marginal vector field
