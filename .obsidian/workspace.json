@@ -39,14 +39,12 @@
             "id": "2af6665c65106d6a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Deeplearning/Generative AI/Flow_matching/FM.md",
-                "mode": "source",
-                "source": false
+                "file": "Deeplearning/Embodied Agent/ACT_arch.png"
               },
-              "icon": "lucide-file",
-              "title": "FM"
+              "icon": "lucide-image",
+              "title": "ACT_arch"
             }
           }
         ],
@@ -201,12 +199,15 @@
   },
   "active": "2af6665c65106d6a",
   "lastOpenFiles": [
+    "Deeplearning/Embodied Agent/Diffusion Policy.md",
+    "Deeplearning/Embodied Agent/Aloha Unleashed.md",
+    "Deeplearning/Embodied Agent/Action_chunking.png",
+    "Deeplearning/Embodied Agent/Acting Chunking with transformer(ACT).md",
     "Deeplearning/Generative AI/Diffusion models.md",
     "Deeplearning/Generative AI/Flow_matching/FM.md",
     "Deeplearning/Embodied Agent/PI0.md",
     "Deeplearning/Generative AI/Flow_matching",
     "Deeplearning/Embodied Agent/Pasted image 20250819142929.png",
-    "Deeplearning/Embodied Agent/Acting Chunking with transformer(ACT).md",
     "Untitled.md",
     "Untitled",
     "Welcome.md",
@@ -231,10 +232,7 @@
     "Deeplearning/Embodied Agent/Lerobot.md",
     "Deeplearning/Embodied Agent/Learned positional embeding.md",
     "Deeplearning/Embodied Agent/Diffusion_policy_development.png",
-    "Deeplearning/Embodied Agent/Diffusion Policy.md",
     "Deeplearning/Embodied Agent/Aloha_unleashed.png",
-    "Deeplearning/Embodied Agent/Aloha Unleashed.md",
-    "Deeplearning/Embodied Agent/Action_chunking.png",
     "Deeplearning/Embodied Agent.zip",
     "Deeplearning/Embodied Agent",
     "Deeplearning"
